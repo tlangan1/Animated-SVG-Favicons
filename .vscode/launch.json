@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Animated-Favicon",
+      "type": "firefox",
+      //   "type": "pwa-msedge",
+      "request": "launch",
+      "reAttach": true,
+      "file": "${workspaceFolder}/svg-animated-favicons.html"
+    }
+  ]
+}
